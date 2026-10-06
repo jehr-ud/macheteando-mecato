@@ -1,0 +1,28 @@
+{
+  "mecato": [
+    {
+      "id": "mango",
+      "points": 50,
+      "sizes": [0.8, 1.0, 1.2]
+    },
+    {
+      "id": "papaya",
+      "points": 60,
+      "sizes": [0.8, 1.0, 1.2]
+    },
+    {
+      "id": "lulo",
+      "points": 80,
+      "sizes": [0.7, 0.9, 1.1]
+    },
+    {
+      "id": "guanabana",
+      "points": 100,
+      "sizes": [0.8, 1.0]
+    }
+  ],
+  "bomb": {
+    "points": 0,
+    "penalty_lives": 1
+  }
+}
